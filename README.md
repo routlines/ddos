@@ -1,2 +1,8 @@
 # ddos
-a lot of ddos scripts 
+
+
+a amp ddos script!
+how to use
+
+perl amp.pl 
+
